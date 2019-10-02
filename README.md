@@ -17,8 +17,10 @@ Arduino IDE
 | 5V| VCC |
 | GND |GND |
 | D7 | Signal| 
-                          Signal
 
-Arduino <------ LED
-D8              Anode Leg
-GND             Cathode
+
+| Arduino       | LED  |
+| ------------- | ------------:|
+| D8 | Anode Leg |
+| GND |Cathode + 220Ohm Resistor |
+
