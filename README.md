@@ -5,8 +5,9 @@ Arduino Nano LED Visualizer using sound sensor
 - Arduino Nano/Uno
 - Sound Sensor
 - Jumper Cable
-- Led
+- Green Led
 - 220 Ohm Resistor
+- Radio mp3
 
 # Software to use
 Arduino IDE
